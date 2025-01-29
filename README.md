@@ -6,7 +6,7 @@ Greetings from my extensive dashboard, which offers an in-depth look at the exc
 
 1. **Chart of Chartered Bicycle Seasonal Distribution**:
 
-![alt text]([https://github.com/robbytbg/Port2/blob/main/Data%20Visualization/related%20images/tile1.PNG](https://github.com/robbytbg/Chartered-Bicycle-Dashboard/blob/87fda4b8ba0f57c31d57efe41f846be17d934287/related%20images/tile1.PNG))
+![alt text](related images/tile1.PNG)
   
   The bar chart elegantly tells the seasonal tale of chartered bicycles at a glance. The color-coding of each season is a visual feast that makes the cyclical pattern of bicycle demand instantly apparent. You may add an interactive overlay that puts you in charge of your own exploration by hovering over the bars to see detailed information into how chartered bicycles are used in particular weather conditions.
 
