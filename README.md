@@ -1,4 +1,5 @@
-# Data Visualization
+# Chartered Bicycle Dashboard
+
 
 ![alt text](https://github.com/robbytbg/Chartered-Bicycle-Dashboard/blob/main/Dashboard.PNG)
 
